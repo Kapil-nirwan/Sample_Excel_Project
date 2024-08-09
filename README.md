@@ -4,7 +4,7 @@
 
 Real-time monitoring dashboard for tracking all the Project Goals.This will helps to know if their customers are satisfied with their services.Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these areas. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
 
-C:\Users\VINEET\Desktop\Data Analytics\Github\MSExcel\Sample_Excel_Project
+https://github.com/Kapil-nirwan/Sample_Excel_Project/blob/main/Screenshot%202024-08-09%20183500.png
  
  
 ## Problem Statement
