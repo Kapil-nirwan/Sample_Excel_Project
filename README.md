@@ -1,5 +1,3 @@
-#sample_project_excel
-
 # E-COMMERCE CALL CENTER ANALYSIS-Dashboard
 
 Real-time monitoring dashboard for tracking all the Project Goals.This will helps to know if their customers are satisfied with their services.Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these areas. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
